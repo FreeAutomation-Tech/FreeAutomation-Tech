@@ -19,6 +19,7 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 | [**SQLGenie**](https://github.com/FreeAutomation-Tech/sqlgenie) | Natural language to SQL using AI | ⭐ | `pip install sqlgenie` |
 | [**LogLens**](https://github.com/FreeAutomation-Tech/loglens) | AI-driven log error analyzer & fix suggester | ⭐ | `pip install loglens` |
 | [**Boilerplate AI**](https://github.com/FreeAutomation-Tech/boilerplate-ai) | Scaffold projects from one CLI command | ⭐ | `pip install boilerplate-ai` |
+| [**Claude Saver**](https://github.com/FreeAutomation-Tech/claude-saver) | Drop-in SDK wrapper that cuts Claude API costs 40-60% | ⭐ | `pip install claude-saver` |
 
 ---
 
@@ -51,6 +52,7 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 - 🎉 Created **LogLens** - AI log error analyzer
 - 🎉 Created **Boilerplate AI** - Project scaffolding CLI
 - 🎉 Created **AI Code Reviewer** - PR review GitHub Action
+- 🎉 Created **Claude Saver** - Cut Claude API costs 40-60%
 <!--END_SECTION:activity-->
 
 ---
@@ -64,7 +66,8 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
   <a href="https://github.com/FreeAutomation-Tech/ai-code-reviewer">AI Code Reviewer</a> •
   <a href="https://github.com/FreeAutomation-Tech/sqlgenie">SQLGenie</a> •
   <a href="https://github.com/FreeAutomation-Tech/loglens">LogLens</a> •
-  <a href="https://github.com/FreeAutomation-Tech/boilerplate-ai">Boilerplate AI</a>
+  <a href="https://github.com/FreeAutomation-Tech/boilerplate-ai">Boilerplate AI</a> •
+  <a href="https://github.com/FreeAutomation-Tech/claude-saver">Claude Saver</a>
 </p>
 
 <p align="center">
