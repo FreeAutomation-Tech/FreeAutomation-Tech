@@ -21,6 +21,7 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 | [**Boilerplate AI**](https://github.com/FreeAutomation-Tech/boilerplate-ai) | Scaffold projects from one CLI command | ⭐ | `pip install boilerplate-ai` |
 | [**Claude Saver**](https://github.com/FreeAutomation-Tech/claude-saver) | Drop-in SDK wrapper that cuts Claude API costs 40-60% | ⭐ | `pip install claude-saver` |
 | [**PyDash**](https://github.com/FreeAutomation-Tech/pydash) | Beautiful terminal system dashboard (CPU, RAM, disk, net) | ⭐ | `pip install pydash` |
+| [**API Tester**](https://github.com/FreeAutomation-Tech/api-tester) | Declarative API testing from YAML with AI assertions | ⭐ | `pip install api-tester` |
 
 ---
 
@@ -55,6 +56,7 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 - 🎉 Created **AI Code Reviewer** - PR review GitHub Action
 - 🎉 Created **Claude Saver** - Cut Claude API costs 40-60%
 - 🎉 Created **PyDash** - Terminal system dashboard
+- 🎉 Created **API Tester** - YAML-driven API testing with AI assertions
 <!--END_SECTION:activity-->
 
 ---
@@ -70,7 +72,8 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
   <a href="https://github.com/FreeAutomation-Tech/loglens">LogLens</a> •
   <a href="https://github.com/FreeAutomation-Tech/boilerplate-ai">Boilerplate AI</a> •
   <a href="https://github.com/FreeAutomation-Tech/claude-saver">Claude Saver</a> •
-  <a href="https://github.com/FreeAutomation-Tech/pydash">PyDash</a>
+  <a href="https://github.com/FreeAutomation-Tech/pydash">PyDash</a> •
+  <a href="https://github.com/FreeAutomation-Tech/api-tester">API Tester</a>
 </p>
 
 <p align="center">
