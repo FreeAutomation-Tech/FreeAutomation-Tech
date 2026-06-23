@@ -15,6 +15,10 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 | [**PyWatch**](https://github.com/FreeAutomation-Tech/pywatch) | Auto-run commands when files change | ⭐ | `pip install pywatch` |
 | [**FastAPI AI Kit**](https://github.com/FreeAutomation-Tech/fastapi-ai-kit) | Production-ready FastAPI + OpenAI/Anthropic template | ⭐ | Clone & deploy |
 | [**Streamlit AI Toolkit**](https://github.com/FreeAutomation-Tech/streamlit-ai-toolkit) | Chat, document Q&A, image analysis apps | ⭐ | `streamlit run app.py` |
+| [**AI Code Reviewer**](https://github.com/FreeAutomation-Tech/ai-code-reviewer) | AI-powered PR reviews (OpenAI/Anthropic/Ollama) | ⭐ | GitHub Action |
+| [**SQLGenie**](https://github.com/FreeAutomation-Tech/sqlgenie) | Natural language to SQL using AI | ⭐ | `pip install sqlgenie` |
+| [**LogLens**](https://github.com/FreeAutomation-Tech/loglens) | AI-driven log error analyzer & fix suggester | ⭐ | `pip install loglens` |
+| [**Boilerplate AI**](https://github.com/FreeAutomation-Tech/boilerplate-ai) | Scaffold projects from one CLI command | ⭐ | `pip install boilerplate-ai` |
 
 ---
 
@@ -43,6 +47,10 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 - 🎉 Created **PyWatch** - Auto file watcher
 - 🎉 Created **FastAPI AI Kit** - AI-powered FastAPI template
 - 🎉 Created **Streamlit AI Toolkit** - AI apps collection
+- 🎉 Created **SQLGenie** - Natural language to SQL
+- 🎉 Created **LogLens** - AI log error analyzer
+- 🎉 Created **Boilerplate AI** - Project scaffolding CLI
+- 🎉 Created **AI Code Reviewer** - PR review GitHub Action
 <!--END_SECTION:activity-->
 
 ---
@@ -52,7 +60,11 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
   <a href="https://github.com/FreeAutomation-Tech/envguard">EnvGuard</a> •
   <a href="https://github.com/FreeAutomation-Tech/pywatch">PyWatch</a> •
   <a href="https://github.com/FreeAutomation-Tech/fastapi-ai-kit">FastAPI AI Kit</a> •
-  <a href="https://github.com/FreeAutomation-Tech/streamlit-ai-toolkit">Streamlit AI Toolkit</a>
+  <a href="https://github.com/FreeAutomation-Tech/streamlit-ai-toolkit">Streamlit AI Toolkit</a> •
+  <a href="https://github.com/FreeAutomation-Tech/ai-code-reviewer">AI Code Reviewer</a> •
+  <a href="https://github.com/FreeAutomation-Tech/sqlgenie">SQLGenie</a> •
+  <a href="https://github.com/FreeAutomation-Tech/loglens">LogLens</a> •
+  <a href="https://github.com/FreeAutomation-Tech/boilerplate-ai">Boilerplate AI</a>
 </p>
 
 <p align="center">
