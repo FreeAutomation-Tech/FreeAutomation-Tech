@@ -100,3 +100,7 @@ I build tools that make developers' lives easier — AI-powered CLIs, production
 <p align="center">
   <i>If you find these useful, drop a star ⭐ — it helps a lot!</i>
 </p>
+---
+*If you find this useful, please consider giving it a star ⭐ — it helps others discover it too!*
+
+*Thank you for your support! 🙏*
